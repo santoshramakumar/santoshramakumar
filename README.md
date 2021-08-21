@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ 
-   :email:  santosh.ramakumar@gmail.com
+   <li>:email:  santosh.ramakumar@gmail.com </li>
+   
    https://www.linkedin.com/in/santoshramakumar/
    
 - 
