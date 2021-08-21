@@ -2,7 +2,10 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me @ :email:
+- 📫 Reach me @ 
+   :email:  santosh.ramakumar@gmail.com
+   https://www.linkedin.com/in/santoshramakumar/
+   
 - 
 
 <!---
